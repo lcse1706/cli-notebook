@@ -1,7 +1,6 @@
 <h2 align='center'>cli-notebook</h2>
 
-<p align='center>App with code editor which allows to save code snippets with comments in text editor in separate block.</p>
-
+<p align='center'>App with code editor which allows to save code snippets with comments in text editor in separate block. </p>
 
 <h3>Used Technologies:</h3>
 
@@ -11,7 +10,6 @@
 - ESbuild bundler
 - Lerna
 - Bootstrap
-
 
 <h3>Features:</h3>
 
